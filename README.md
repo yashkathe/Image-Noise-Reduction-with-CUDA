@@ -1,5 +1,7 @@
 # GPU vs CPU Runtime Analysis
 
+![alt text](output_image/image_1.png)
+
 ## Overview
 
 This repository contains a project that compares the performance of image
